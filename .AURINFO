@@ -1,0 +1,12 @@
+pkgbase = modpoll
+	pkgdesc = free modbus testing tool based on fieldtalk driver
+	pkgver = 3.4
+	pkgrel = 2
+	url = http://www.modbusdriver.com/modpoll.html
+	arch = i686
+	arch = x86_64
+	license = other
+	source = http://www.modbusdriver.com/downloads/modpoll.3.4.zip
+
+pkgname = modpoll
+
